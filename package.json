@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-plus-ihx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of homebridge-tuya-plus with switch support",
   "main": "index.js",
   "scripts": {
