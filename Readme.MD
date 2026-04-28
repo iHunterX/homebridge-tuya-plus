@@ -43,7 +43,7 @@ A community-maintained Homebridge plugin for controlling Tuya devices locally ov
   * Color<sup>[12](https://github.com/adrianjagielak/homebridge-tuya-plus/blob/main/wiki/Supported-Device-Types.md#white-and-color-light-bulbs)</sup> (Hue, Saturation, Adaptive Lighting)
 * Oil Diffusers<sup>[13](https://github.com/adrianjagielak/homebridge-tuya-plus/blob/main/wiki/Supported-Device-Types.md)</sup>
 * Outlets<sup>[14](https://github.com/adrianjagielak/homebridge-tuya-plus/blob/main/wiki/Supported-Device-Types.md#outlets)</sup>
-* Switches<sup>[15](https://github.com/adrianjagielak/homebridge-tuya-plus/blob/main/wiki/Supported-Device-Types.md)</sup>
+* Switches<sup>[15](https://github.com/iHunterX/homebridge-tuya-plus/blob/main/wiki/Supported-Device-Types.md#switch)</sup>
 * Vertical Blinds<sup>[16](https://github.com/adrianjagielak/homebridge-tuya-plus/blob/main/wiki/Supported-Device-Types.md#vertical-blinds-with-tilt)</sup>
 
 Note: Motion, and other sensor types don't behave well with responce requests, so they will not be added. 
@@ -85,6 +85,7 @@ If you have new accessory logic for a new device, please add a function defined 
 
 ## Credits
 
+* [adrianjagielak](https://github.com/adrianjagielak) - developer of the original [homebridge-tuya-plus](https://github.com/adrianjagielak/homebridge-tuya-plus) plugin.
 * [iRayanKhan](https://github.com/iRayanKhan) - developer of the original [homebridge-tuya](https://github.com/iRayanKhan/homebridge-tuya) plugin. 
 * [AMoo-Miki](https://github.com/AMoo-Miki) - developer of the [Tuya-Lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) plugin which this plugin is based off. 
 * mxDanger - Plugin branding.

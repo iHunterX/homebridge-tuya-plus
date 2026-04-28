@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tuya-plus",
-  "version": "3.4.0",
-  "description": "A community-maintained Homebridge plugin for controlling Tuya devices locally over LAN. Includes new features, fixes, and updated device support.",
+  "name": "homebridge-tuya-plus-ihx",
+  "version": "1.0.0",
+  "description": "Fork of homebridge-tuya-plus with switch support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianjagielak/homebridge-tuya-plus.git"
+    "url": "git+https://github.com/iHunterX/homebridge-tuya-plus.git"
   },
-  "author": "Rayan Khan",
+  "author": "ihx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adrianjagielak/homebridge-tuya-plus/issues"
+    "url": "https://github.com/iHunterX/homebridge-tuya-plus/issues"
   },
-  "homepage": "https://github.com/adrianjagielak/homebridge-tuya-plus#readme",
+  "homepage": "https://github.com/iHunterX/homebridge-tuya-plus#readme",
   "dependencies": {
     "async": "^3.2.2",
     "commander": "^3.0.1",
